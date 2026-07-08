@@ -90,6 +90,9 @@ The objective is to analyze footwear sales data, uncover business insights, and 
 **Dashboard Preview**
 <img width="972" height="552" alt="Screenshot 2026-07-06 180828" src="https://github.com/user-attachments/assets/884e9a26-6fbf-4a9c-bfaa-8fa538bc13e5" />
 
+<img width="1061" height="671" alt="Screenshot 2026-07-08 190653" src="https://github.com/user-attachments/assets/eaa25e51-1f87-49c5-ae5a-0af986fbed91" />
+
+
 
 **Project Outcome**
 
